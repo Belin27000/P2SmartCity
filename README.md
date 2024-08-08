@@ -69,6 +69,20 @@ Avoir le fichier requirements.txt à la racine du dossier
   python -m ipykernel install --user --name=P2_env --display-name "Python (P2_env)"
 ```
 l'environnement est disponible. si il n'apparait pas, actualiser le notebook.
+
+
+## Telechargement du jeu de données
+Si vous ne souhaitez pas modifier le chemin de chargement des données dans le notebook:
+
+- Se positionner à la racine du projet.
+- Créer un dossier : "datas"
+- Dans ce dossier venir télécharger le jeu de données. Vous le trouverez en suivant ce lien:
+https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/AI+Engineer/Project+2+Participez+%C3%A0+un+concours+sur+la+Smart+City/p2-arbres-fr.csv
+- Vérifier que le nom du fichier télécharger est le suivant: "p2-arbres-fr.csv"
+- Si ce n'est pas le cas, renommer le fichier.
+- 
+=======
+
 ## Authors
 
 - [@yannLecerf](https://github.com/Belin27000)
