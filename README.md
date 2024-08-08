@@ -70,6 +70,7 @@ Avoir le fichier requirements.txt à la racine du dossier
 ```
 l'environnement est disponible. si il n'apparait pas, actualiser le notebook.
 
+
 ## Telechargement du jeu de données
 Si vous ne souhaitez pas modifier le chemin de chargement des données dans le notebook:
 
@@ -80,6 +81,8 @@ https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/AI+En
 - Vérifier que le nom du fichier télécharger est le suivant: "p2-arbres-fr.csv"
 - Si ce n'est pas le cas, renommer le fichier.
 - 
+=======
+
 ## Authors
 
 - [@yannLecerf](https://github.com/Belin27000)
